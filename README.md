@@ -24,7 +24,7 @@ Using Python (GeoPandas, Rasterio) and QGIS, we mapped bus stop buffers and comp
 
 
 
-👉 Only about one‑quarter of Malappuram’s population lives within 500 m of a bus stop.
+ Only about one‑quarter of Malappuram’s population lives within 500 m of a bus stop.
 
 
 
