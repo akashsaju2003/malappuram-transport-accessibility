@@ -1,0 +1,17 @@
+Public Transport Accessibility Study – Malappuram
+Coverage Summary
+
+
+Total Population (Raster): 3,178,661
+
+Served Population (within 500m of bus stops): 510,565
+Served Percentage: 27.77 %
+
+Unserved Population (outside 500m of bus stops): 2,660,096
+Unserved Percentage: 72.23 %
+
+Interpretation:
+- Only 27.77% of Malappuram’s population lives within 500m of a bus stop.
+- The majority, 72.23% (≈ 2.66 million people), remain underserved.
+- This highlights significant accessibility gaps in public transport coverage.
+- Areas identified as unserved can guide planning for new bus stops or improved routes.
